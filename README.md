@@ -15,8 +15,8 @@ This repository will gradually accumulate chapters of the MISON theory.
 ## Published Sections
 
 ### **Prologue**
-- Japanese: `/prologue/超大統一理論MISON_序章.docx`
-- English: `/prologue/TheUnifiedTheory_MISON_Prologue.docx`
+- Japanese: `/chapters/00_序章.md`
+- English: `/chapters/00_Prologue.md`
 
 ---
 
