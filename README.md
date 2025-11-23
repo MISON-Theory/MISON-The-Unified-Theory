@@ -1,6 +1,6 @@
 # MISON — Minimal Interrelation Space-timeless Order Network
 
-A prototype unified theory aiming to explain matter, forces, space,  
+A prototype grand unified theory aiming to explain matter, forces, space,  
 and the universe itself through a single underlying principle.
 
 ---
